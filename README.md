@@ -1,4 +1,4 @@
-##Air Gesture Control
+## Air Gesture Control
 
 ### Overview
 This project aims to develop a system that enables users to control their computer's functions, including volume, brightness, and mouse movement, using hand gestures. It utilizes computer vision techniques to track hand movements and map them to corresponding system actions.
