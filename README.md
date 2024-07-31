@@ -36,6 +36,7 @@ The project consists of three main versions, each building upon the previous one
 We welcome contributions to improve the project. Feel free to fork the repository, make changes, and submit a pull request.
 
 ### License
-[Insert your desired license here]
+MIT License
 
-### Contributors
+// ### Contributors
+
