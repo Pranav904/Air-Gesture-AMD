@@ -8,6 +8,12 @@ import time
 from ctypes import cast, POINTER
 from comtypes import CLSCTX_ALL
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
+from win10toast import ToastNotifier
+toaster = ToastNotifier()
+
+# Calibration Phase (Any Hand)
+
+toaster.show_toast("Air Gesture", "\nApplication Has Started", duration=4)
 
 plocX, plocY = 0, 0
 clocX, clocY = 0, 0
